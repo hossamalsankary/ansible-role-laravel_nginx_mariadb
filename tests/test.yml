@@ -1,0 +1,6 @@
+---
+- hosts: cloud
+  remote_user: root
+  become: yes
+  roles:
+    - laravel_nginx_mariadb

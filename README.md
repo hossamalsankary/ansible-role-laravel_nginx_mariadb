@@ -84,7 +84,7 @@ db_root_password: #database root password
 ## Notes:
 
 - Don't Forget to modify the variables in your defaults/main.yml.
-- Only use PHP Applications (any other framework should be handled manually).
+- Works only for PHP single Applications (handling other framework should be manually handled).
 - Sample PHP Repo : https://github.com/ekramasif/Inventory_Management_System.git
 
 ## License
